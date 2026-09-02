@@ -27,4 +27,4 @@ Markdown para documentação
 Gustavo Gonçalves Inácio — estudante de ADS, em transição para a área de QA/Testes de software.
 
 Status
-Em desenvolvimento — projeto de estudo e portfólio.
+Em desenvolvimento — projeto de estudo.
