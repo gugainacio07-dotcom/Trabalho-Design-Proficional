@@ -51,7 +51,7 @@ Acessar a tela de login:
 **Status:** Passou
 
 
-## CT005 — Bloqueio após múltiplas tentativas falhas:
+## Bloqueio após múltiplas tentativas falhas:
 **Cenário:** Usuário erra a senha 5 vezes seguidas
 **Pré-condição:** Usuário previamente cadastrado no sistema
 **Passos:**
