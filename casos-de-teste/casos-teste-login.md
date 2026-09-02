@@ -1,6 +1,6 @@
 # Casos de Teste — Tela de Login
 
-## CT001 — Login com credenciais válidas
+## Login com credenciais válidas
 **Cenário:** Usuário tenta logar com e-mail e senha corretos
 **Pré-condição:** Usuário previamente cadastrado no sistema
 **Passos:**
@@ -13,7 +13,7 @@ Acessar a tela de login:
 **Status:**  Passou
 
 
-## CT002 — Login com senha incorreta:
+## Login com senha incorreta:
 **Cenário:** Usuário tenta logar com e-mail válido, mas senha incorreta
 **Pré-condição:** Usuário previamente cadastrado no sistema
 **Passos:**
@@ -26,7 +26,7 @@ Acessar a tela de login:
 **Status:**  Passou
 
 
-## CT003 — Login com campos vazios:
+## Login com campos vazios:
 **Cenário:** Usuário tenta logar sem preencher nenhum campo
 **Pré-condição:** Nenhuma
 **Passos:**
@@ -38,7 +38,7 @@ Acessar a tela de login:
 **Status:**  Falhou 
 
 
-## CT004 — Login com e-mail em formato inválido:
+##  Login com e-mail em formato inválido:
 **Cenário:** Usuário insere um e-mail sem "@" ou domínio
 **Pré-condição:** Nenhuma
 **Passos:**
